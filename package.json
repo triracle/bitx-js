@@ -1,0 +1,12 @@
+{
+  "name": "bitxjs",
+  "version": "1.0.0",
+  "dependencies": {
+    "bigi": "^1.4.2",
+    "crypto-js": "^3.1.9-1",
+    "ecurve": "^1.0.6",
+    "secp256k1": "^3.5.0"
+  },
+  "author": "Tranz",
+  "license": "MIT"
+}
